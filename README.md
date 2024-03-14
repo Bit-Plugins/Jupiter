@@ -1,13 +1,11 @@
-# Example Plugin
-An example plugin for Bit: Core
+# Jupiter
+A moderation plugin for bit
 
-## Folder Structure
-Bit Core Plugins follow the following folder structure
-- Folder-Name
- - commands
-  - command.js
- - events
-  - event.js
- - plugin.json
+## Supported Bit Versions
+Bit 5.2.x
 
-Please see the plugin.json file for a list of support values in the current Bit: Core version.
+## Setup instructions
+1 - Download and setup [Bit](https://lockyzmedia.com/bots/bit/)
+2 - Download this plugin and unzip into the bit/plugins folder
+3 - Update ALL values within the config.json
+4 - This plugin should now work :)
